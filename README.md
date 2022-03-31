@@ -4,9 +4,11 @@
 
 ### Developed as a challenge for the Rutgers Coding Bootcamp, this web app makes use of JQuery functions <br> <br>
 
+[Link to application](https://kgil60.github.io/workday-scheduler/) <br> <br>
+
 ### Color coded based on what time of day it is <br> <br>
 
-![Screenshot of scheduler](./Develop/img/work-day-preview.PNG)
+![Screenshot of scheduler](./docs/img/work-day-preview.PNG)
 <br>
 Preview of scheduler home screen <br> <br>
 
